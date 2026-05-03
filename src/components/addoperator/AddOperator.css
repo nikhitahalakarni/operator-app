@@ -1,0 +1,21 @@
+/* .operator-container{
+    background-color: rgb(71, 142, 175);
+} */
+
+.form-label {
+  font-weight: bold;
+  color: #fff;
+}
+
+.op-form{
+    background-color: rgb(141, 172, 168);
+}
+
+.submit-btn{
+    background: linear-gradient(45deg, rgb(100, 168, 168),rgb(40, 61, 70));
+    border-radius: 30px;
+}
+
+.submit-btn:hover{
+    background: linear-gradient(45deg, rgb(25, 56, 56),rgb(146, 169, 179));
+}

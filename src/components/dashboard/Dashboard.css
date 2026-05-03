@@ -1,0 +1,9 @@
+.table-container {
+  max-height: 340px;  
+  overflow-y: auto;  
+}
+
+.image-container{
+    width:140px;
+    height:auto;
+}
